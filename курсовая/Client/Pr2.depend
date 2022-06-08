@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1648217868 source:c:\i502b\pr2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<WinSock2.h>
+	<locale.h>
+
+1651845779 source:c:\users\temp.prim.015\downloads\i502b\pr2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<WinSock2.h>
+	<locale.h>
+
+1653057088 source:c:\i502b\i502b\pr2_client\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<WinSock2.h>
+	<locale.h>
+
+1654635661 source:c:\users\asketov\desktop\2 практическая\pr2_client\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<WinSock2.h>
+	<locale.h>
+
